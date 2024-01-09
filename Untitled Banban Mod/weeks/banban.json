@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"birdup",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pancreas-muncher",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rivals",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"kingdom-come",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"scepter-wrecker",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "untitled banban mod",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
