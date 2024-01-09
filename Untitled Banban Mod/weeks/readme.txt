@@ -1,1 +1,1 @@
-Drop your custom week .json files here!
+Freeplay unlocks after beating the main week, so in other words the mods normal
